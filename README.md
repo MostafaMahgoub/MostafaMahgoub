@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Reda Mahgoub</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Research and Development Center "Egyptian Air Defense Military Commands"**
 
 - 🌱 I’m currently learning **React and Vue ^^**
 
