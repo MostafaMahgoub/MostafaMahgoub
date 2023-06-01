@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React and Vue ^^**
 
-- 👨‍💻 All of my projects are available at Portfolio in progress 👋
+- 👨‍💻 All of my projects are available at "Portfolio in progress 👋"
 
 - 📫 How to reach me **mostafamahgoub@outlook.com**
 
