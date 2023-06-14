@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React and Vue ^^**
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolio-alpha-lyart-41.vercel.app/">Check portfolio</a> 👋
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-alpha-lyart-41.vercel.app/" target="_blank">Check portfolio</a> 👋
 
 - 📫 How to reach me **mostafamahgoub@outlook.com**
 
