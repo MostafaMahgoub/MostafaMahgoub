@@ -1,105 +1,92 @@
-<h2 align="center">Hi 👋, I’m Mostafa Reda Mahgoub, Software Engineer you’d love to work with 🤓🧐.</h2>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MostafaMahgoub&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
+# MOSTAFA MAHGOUB
+### Senior Frontend Engineer · Enterprise UI · AI-Native Products
+
+**Enterprise UI. Built to scale.**
+
+Senior frontend engineer crafting cache-first, AI-native interfaces
+for demanding product teams: from national-scale education systems
+to multi-product CRM platforms.
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20site-111111?style=for-the-badge&labelColor=000000&color=22c55e)](https://portfolio-psi-sooty-65.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa%20Reda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-reda-4650b922b/)
+[![Email](https://img.shields.io/badge/Email-mostafamahgoub%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mostafamahgoub@outlook.com)
+
 </div>
 
-###
+---
 
-<img align="right" height="185" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1ycWlsOTl5dW8wZjlnY3Fodmpnc3FoMGtrODB6ZWx0ODdudTFpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.gif"  />
+### 01 / NOW
 
-###
+Leading AI-native platform work at **Lata**: CRM, workflows, inbox, reporting, offline-first data layers, and RAG-powered search for US enterprise clients.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" width="30" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="30" width="30" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" width="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" width="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" width="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" width="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" width="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="30" alt="cplusplus logo"  />
-</div>
+| **25+** projects shipped | **5+** years building |
+|---|---|
+| **Crystal Reward ×2** | **Next.js · TypeScript · RTK Query** |
 
-###
+---
+
+### 02 / HIGHLIGHTS
+
+<pre>
+2025 → Senior Software Engineer @ Lata · AI-native enterprise platform
+2024 → Frontend Engineer Lead @ Be Tech · 15+ client products, Crystal Reward
+2024 → Itqan / Laam · Ministry of Education (KSA) school systems
+2022 → Air Defense R&D · 8+ Electron + maps desktop apps
+2021 → B.Sc. Computer Science · Ain Shams University
+</pre>
+
+---
+
+### 03 / STACK
+
+Focused on what I ship day-to-day (not every tool I have ever touched):
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,nodejs,supabase,postgres,mongodb,electron,figma,git" alt="tech stack" />
+</p>
+
+**Core** · Next.js · React · TypeScript · Tailwind · shadcn/ui  
+**Data** · Redux Toolkit · RTK Query · TanStack Table/Virtual · Dexie · Zod  
+**Platform** · Supabase · Clerk · OpenAI / RAG · PostHog · Sentry  
+**Also** · Electron · Three.js · Framer Motion · Mapbox
+
+---
+
+### 04 / FLAGSHIP WORK
+
+| Project | Role | Stack |
+|---|---|---|
+| **[Lata](https://portfolio-psi-sooty-65.vercel.app)** | AI-native CRM + workflows + offline sync | Next.js · Supabase · RTK Query · Dexie |
+| **Itqan (Laam)** | National school platform · MoE KSA | Next.js · RTK Query · Ant Design |
+| **Maps & Electron Suite** | 8+ classified desktop apps · R&D | Electron · Mapbox · MySQL · MongoDB |
+
+Full case studies → [View portfolio](https://portfolio-psi-sooty-65.vercel.app)
+
+---
+
+### 05 / WHAT I BRING
+
+- **Cache-first architecture** · instant UI, offline support, live sync
+- **Complex product UI** · virtualized tables, Kanban, 17+ field types
+- **AI-native interfaces** · RAG search, AI fields, OpenAI in production
+- **Leadership** · mentored juniors, owned delivery across 15+ products
+
+---
 
 <div align="center">
-  <a href="marshel_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mostafa-reda-4650b922b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mostafamahgoub@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
-  </a>
+
+<img src="https://streak-stats.demolab.com?user=MostafaMahgoub&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=8&background=0D1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" height="140" alt="GitHub streak" />
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/MostafaMahgoub/MostafaMahgoub/output/snake.svg" alt="Contribution snake" />
+
+<br />
+
+**Building at Lata** · [Get in touch →](mailto:mostafamahgoub@outlook.com)
+
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MostafaMahgoub/MostafaMahgoub/output/snake.svg" alt="Snake animation" />
-
-###
